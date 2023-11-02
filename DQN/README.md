@@ -4,7 +4,8 @@
 CartPole은 OpenAI의 gym 라이브러리에서 제공하는 환경 중 하나로, 그림과 같이 카트를 조종하여 막대기를 제어하는 환경입니다.
 본 환경에서, 막대기는 카트 위에 존재하며, 카트를 왼쪽/오른쪽으로 밀어줌으로써 막대기가 쓰러지지 않도록 하는 것을 목표로 합니다.  
 (공식 설명 링크: https://www.gymlibrary.dev/environments/classic_control/cart_pole/)  
-![Screenshot from 2023-10-22 22-02-09](https://github.com/bmil-ssu/advanced_ann/assets/89993108/e7514aca-165b-4022-ab3c-041180f00685)
+![cartpole](https://github.com/bmil-ssu/advanced_ann/assets/89993108/f63b487f-300a-445f-b856-303402d4698f)
+
 
 ## MDP 설명
 - Aim: 카트를 조종하여 막대기가 쓰러지지 않도록 하는 것을 목표로 합니다.
@@ -32,4 +33,4 @@ CartPole은 OpenAI의 gym 라이브러리에서 제공하는 환경 중 하나�
 -  에피소드 종료 조건
     1) 막대기의 각도가 ±12° 보다 커지는 경우
     2) 카트의 위치가 ±2.4보다 커지는 경우 (= 카트의 중앙점이 display의 양 끝단을 벗어나는 경우)
-    3) 에피소드가 500이상이 될 경우 (즉, reward의 최댓값은 500)
+    3) 에피소드내 시점이 500에 도달한 경우 (즉, reward의 최댓값은 500)
