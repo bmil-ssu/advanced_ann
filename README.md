@@ -3,7 +3,6 @@
 
 
 # 2024 advanced_ann Tool Installation Guide
----
 ## 1. CoLab 활용 방법
 1. 다음 링크로 구글 CoLab 접속 (https://colab.research.google.com/)
 2. 새로운 Jupyter notebook 파일 생성 또는 컴퓨터에 저장된 Jupyter notebook 파일 업로드
