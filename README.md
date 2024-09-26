@@ -68,8 +68,8 @@ pdf와 ipynb로 제출 (팀당 1개씩).
 - 현재의 정량적 성능
 - 남은 기간 계획
 
-### 프로젝트 최종발표 (6/12 6-9PM)
-- 최종 발표 평가표[docx](https://docs.google.com/document/d/1FTBtO1bFmX3YIooC_0n1sPn5Xskd1-zr/edit?usp=sharing&ouid=115503760206568696644&rtpof=true&sd=true)
+### 프로젝트 최종발표 (?/? 6-9PM)
+- 최종 발표 평가표[docx](https://docs.google.com/document/d/1y5m70j2Ep6aQyiIQzUXTUXCFIeotviSL/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
 - ?시까지 발표자료 교수석 컴퓨터에 넣어놓을 것 (혹은 개인 랩탑 연걸 테스트 할것) 
 - 인당 ?분발표 (시간 엄수)
 포함할 사항
