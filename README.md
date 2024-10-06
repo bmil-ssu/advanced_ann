@@ -40,7 +40,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 **수행 과정**
 1) EMNIST dataset 개요 및 분석: (Get the data/Discover and visualize the data) - 데이터 전처리 및 선택 근거 제시
 2) Dataset 분류: training/validation/test dataset으로 분배 (Prepare the data)
-3) AE 및 비교 알고리즘 학습 및 결과분석
+3) AE 학습 및 결과분석
 4) 모델 최적화 및 분석:
    - Model과 training hyperparameter의 최적화를 통해 최대 성능을 획득.
    - 최적화 과정 제시 및 결과 분석. 학습시간, 예측시간(inference time), 정확도 측면에서 분석 -> EMNIST dataset에 포함된 test dataset을 기반으로 한 성능 평가: 주어
@@ -52,10 +52,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 1. 1인 프로젝트
 2. 제출자료: 중간보고서, 최종보고서, 발표자료, 실행결과 포함한 노트북 파일. 모든 파일은 pdf와 ipynb로 제출.
 3. 보고서 및 발표자료 포함사항
-   - 프로젝트 개요 및 목표
-   - 수행계획 (수정한 계획 요약)
-   - 프로젝트 수행과정 (최종 정량적 성능, 프로젝트 수행과정에서 나타난 challenges & solutions, lessons learned) 
-   - 결론
+   - 하이퍼 파라미터 별 성능 영향력 분석 내용 
 
 ### 평가 방식
 - 보고서 및 시뮬레이션 결과 평가
