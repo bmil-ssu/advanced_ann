@@ -35,7 +35,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 1. EMNIST dataset을 분석하고, 숫자 데이터로 AE 모델을 학습하여 결과를 확인한다.
 2. Binary classification을 수행하는 비교 알고리즘들을 학습하여 결과를 확인한다.
 3. Hyperparameter 변경을 통해 최적의 AE 학습 결과를 얻는다. 
-4. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 비교 알고리즘과의 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
+4. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
 
 **수행 과정**
 1) EMNIST dataset 개요 및 분석: (Get the data/Discover and visualize the data) - 데이터 전처리 및 선택 근거 제시
