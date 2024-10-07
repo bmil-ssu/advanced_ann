@@ -29,13 +29,11 @@
 ### 프로젝트 목표
 EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이상탐지를 위한 적절한 하이퍼파라미터 조합을 찾는다.
 이상탐지는 EMNIST dataset을 사용하여 문자의 경우 이상, 숫자의 경우 정상으로 판단한다.
-비교 알고리즘들과의 분석을 통해 결론을 도출한다.
 
 ### 프로젝트 수행 방법
 1. EMNIST dataset을 분석하고, 숫자 데이터로 AE 모델을 학습하여 결과를 확인한다.
-2. Binary classification을 수행하는 비교 알고리즘들을 학습하여 결과를 확인한다.
-3. Hyperparameter 변경을 통해 최적의 AE 학습 결과를 얻는다. 
-4. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
+2. Hyperparameter 변경을 통해 최적의 AE 학습 결과를 얻는다. 
+3. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
 
 **수행 과정**
 1) EMNIST dataset 개요 및 분석: (Get the data/Discover and visualize the data) - 데이터 전처리 및 선택 근거 제시
@@ -58,7 +56,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 - 보고서 및 시뮬레이션 결과 평가
 - 문제의 분석과 solution 도출 과정이 나타나야 함
     
-### 프로젝트 중간점검 보고서 제출 (10/23 23:59)
+### 프로젝트 중간점검 보고서 제출 (11/5 23:59)
 - 보고서 양식[docx](https://docs.google.com/document/d/1oUezZj2Z7P7v3fInXZeX4Id-a9GOfKAo/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
 - EMNIST dataset 개요 및 분석, Dataset 분류, 학습 및 결과분석
 포함할 사항
