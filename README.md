@@ -54,7 +54,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 - 최종 발표 및 결과물 평가
     
 ### 프로젝트 중간점검 보고서 제출 (11/5 23:59)
-- 보고서 양식[docx]([https://docs.google.com/document/d/1oUezZj2Z7P7v3fInXZeX4Id-a9GOfKAo/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true](https://docs.google.com/document/d/1VhnLSPc6TRfxQcFqClm1d66G6DN6hg-N/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true))
+- 보고서 양식[docx](https://docs.google.com/document/d/1oUezZj2Z7P7v3fInXZeX4Id-a9GOfKAo/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true](https://docs.google.com/document/d/1VhnLSPc6TRfxQcFqClm1d66G6DN6hg-N/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true))
 포함할 사항
 - 사용 하이퍼파라미터 분석 내용
 - 이상탐지 성능 지표 설명 및 분석 내용
