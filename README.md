@@ -61,7 +61,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 - Jupyter notebook 코랩 링크
 
 ### 프로젝트 최종발표 (추후 결정)
-- 최종 발표 평가표[docx](//https://docs.google.com/document/d/1y5m70j2Ep6aQyiIQzUXTUXCFIeotviSL/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
+- 최종 발표 평가표[docx]([https://docs.google.com/document/d/1y5m70j2Ep6aQyiIQzUXTUXCFIeotviSL/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
 - 발표자료 교수석 컴퓨터에 넣어놓을 것 (혹은 개인 랩탑 연걸 테스트 할것) 
 - 인당 10분발표 (시간 엄수)
 포함할 사항
