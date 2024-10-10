@@ -32,7 +32,7 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 
 ### 프로젝트 수행 방법
 1. EMNIST dataset을 분석하고, 숫자 데이터로 AE 모델을 학습하여 결과를 확인한다.
-2. Hyperparameter 변경을 통해 최적의 AE 학습 결과를 얻는다. 
+2. Hyperparameter 변경을 통해 최적의 AE 학습 결과를 얻는다. (Hyperparameter: 모델 layer 수, node 수, learnig rate, epoch, threshold 설정 등)
 3. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
 
 **수행 과정**
@@ -52,13 +52,27 @@ EMNIST dataset을 이용하여 직접 설계한 AE모델을 학습시키고 이�
 ### 평가 방식
 - 중간 보고서 및 1,2차 성능 결과 평가
 - 최종 발표 및 결과물 평가
-    
+
+### 1차성능 구글시트 제출 (10/29 23:59)
+- 최적의 하이퍼파라미터 도출
+- valid dataset을 사용한 성능 평가
+- 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
+
+### 2차성능 구글시트 제출 (11/5 23:59)
+- 제시된 모델 구조에 따른 최적의 하이퍼파라미터 도출
+- valid, test dataset을 사용한 성능 평가
+- 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
+
 ### 프로젝트 중간점검 보고서 제출 (11/5 23:59)
 - 보고서 양식[docx](https://docs.google.com/document/d/1sC790ydDjOc1SSC0iIX1TJ7t02GId3QY/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
 포함할 사항
 - 사용 하이퍼파라미터 분석 내용
 - 이상탐지 성능 지표 설명 및 분석 내용
 - Jupyter notebook 코랩 링크
+- 우수 보고서 예시
+- [pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261965/download?wrap=1)
+- [pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261964/download?wrap=1)
+- [pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261966/download?wrap=1)
 
 ### 프로젝트 최종발표 (추후 결정)
 - 최종 발표 평가표[docx]([https://docs.google.com/document/d/1y5m70j2Ep6aQyiIQzUXTUXCFIeotviSL/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
