@@ -43,7 +43,7 @@
    - Model과 training hyperparameter의 최적화를 통해 최대 성능을 획득.
    - 최적화 과정 제시 및 결과 분석 -> EMNIST dataset에 포함된 valid dataset을 기반으로 한 성능 평가
    - Epoch에 따른 learning curve 제시.
-   - 이상탐지 성능 지표 수식 및 결과 포함 -> EMNIST dataset에 포함된 test dataset을 기반으로 한 성능 평가
+   - 이상탐지 성능 지표 수식 및 결과 포함(Accuracy, Recall, Precision, F1-score) -> EMNIST dataset에 포함된 test dataset을 기반으로 한 성능 평가
 
 ### 요구 조건
 1. 1인 또는 2인 프로젝트
