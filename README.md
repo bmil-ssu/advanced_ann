@@ -36,7 +36,7 @@
 3. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
 
 **수행 과정**
-- 프로젝트 예시 코드[git](https://github.com/bmil-ssu/advanced_ann/blob/main/2024/Code/Advanced_ann_project.ipynb) - 코드 내 수정 가능 부분만 변경
+- 프로젝트 예시 코드[git](https://github.com/bmil-ssu/advanced_ann/blob/main/2024/Code/Advanced_Ann_project.ipynb) - 코드 내 수정 가능 부분만 변경
 - 데이터 제공 링크[git](https://github.com/bmil-ssu/advanced_ann/blob/main/2024/Dataset/Data.md) - 제공 데이터만을 사용하여 학습 및 성능 평가
 - 주의사항: Google colab에서 가능한 범위 내에서만 하이퍼파리미터 튜닝 가능(개인 gpu 사용 불가)
 - 모델 최적화 및 분석:
