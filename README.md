@@ -31,7 +31,7 @@
 - 이상탐지는 EMNIST dataset을 사용하여 문자의 경우 이상, 숫자의 경우 정상으로 판단한다.
 
 ### 프로젝트 수행 방법
-1. EMNIST dataset을 분석하고, 숫자 데이터로 AE 모델을 학습하여 결과를 확인한다.
+1. EMNIST dataset 중 숫자 데이터로 AE 모델을 학습하여 결과를 확인한다.
 2. Hyperparameter 변경을 통해 최적의 AE 학습 결과를 얻는다. (Hyperparameter: 모델 layer 수, node 수, learning rate, epoch, batch size, optimizer, threshold 설정)
 3. Reconstruction error와 이상탐지 성능을 고려하여 직접 설계한 네트워크의 결과를 분석하고 성능 평가를 수행한다. 이때 모델 구조 선정 과정과 결과를 실험 및 분석 결과에 근거하여 제시한다.
 
