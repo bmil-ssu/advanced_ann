@@ -77,9 +77,9 @@
 - 이상탐지 성능 지표 설명 및 분석 내용
 - Jupyter notebook 코랩 링크
 - 2023년 우수 보고서 예시 (큰 구성만 참고 - 작년과 프로젝트가 다름)
-- [예시1pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261965/download?wrap=1)
-- [예시2pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261964/download?wrap=1)
-- [예시3pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261966/download?wrap=1)
+- [예시1pdf](https://drive.google.com/file/d/1UO7IuZuZ7qeiUjkokdktSpolyNymDMp3/view?usp=sharing)
+- [예시2pdf](https://drive.google.com/file/d/1fpKmHZdtPpHIQL_kYANuYtTGVgQLsQRW/view?usp=sharing)
+- [예시3pdf](https://drive.google.com/file/d/1hXxi-sG-P6Tqq7jBf0SZ5bhqoB1GSIr8/view?usp=sharing)
 
 ### 프로젝트 최종발표 (11/25 (월) 시간 추후 결정)
 추후 공지
