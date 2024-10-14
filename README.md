@@ -67,7 +67,7 @@
 ### 2차성능 구글시트 제출 (11/5 (화) 23:59)
 - 제시된 모델 구조에 따른 최적의 하이퍼파라미터 도출
 - validate, test dataset을 사용한 성능 평가
-- 제약 조건하에 하이퍼파리미터 튜닝 수행(latent size, layer 수 등)
+- 제약조건하에 하이퍼파리미터 튜닝 수행(latent size, layer 수 등)
 - 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
 
 ### 프로젝트 중간점검 보고서 제출 (11/5 (화) 23:59)
