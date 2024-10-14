@@ -57,16 +57,17 @@
 - 중간 보고서 및 1,2차 성능 결과 평가
 - 최종 발표 및 결과물 평가
 
-### 1차성능 구글시트 제출 (10/29 (화) 23:59)
+### 1차성능 구글시트 제출 (10/29 (화) 23:59) -> 누가 성능 가장 좋은지 competition!!!
 - 최적의 하이퍼파라미터 도출
 - validate dataset을 사용한 성능 평가
 - 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
 - 10/30 (수) 수업시간에 성능 종합 평가(점수 반영)
+- 1차성능 확인 후 제약조건을 줄 예정 (해당 제약조건은 2차성능때엔 만족시켜야 함)
 
 ### 2차성능 구글시트 제출 (11/5 (화) 23:59)
 - 제시된 모델 구조에 따른 최적의 하이퍼파라미터 도출
 - validate, test dataset을 사용한 성능 평가
-- 제시된 조건하에 하이퍼파리미터 튜닝 수행(latent size, layer 수 등)
+- 제약 조건하에 하이퍼파리미터 튜닝 수행(latent size, layer 수 등)
 - 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
 
 ### 프로젝트 중간점검 보고서 제출 (11/5 (화) 23:59)
@@ -75,7 +76,7 @@
 - 사용 하이퍼파라미터 분석 내용
 - 이상탐지 성능 지표 설명 및 분석 내용
 - Jupyter notebook 코랩 링크
-- 우수 보고서 예시 (큰 구성만 참고 - 작년과 프로젝트가 다름)
+- 2023년 우수 보고서 예시 (큰 구성만 참고 - 작년과 프로젝트가 다름)
 - [예시1pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261965/download?wrap=1)
 - [예시2pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261964/download?wrap=1)
 - [예시3pdf](https://canvas.ssu.ac.kr/courses/23813/files/2261966/download?wrap=1)
