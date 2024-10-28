@@ -63,6 +63,7 @@
 - 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
 - 10/30 (수) 수업시간에 성능 종합 평가(점수 반영)
 - 1차성능 확인 후 제약조건을 줄 예정 (해당 제약조건은 2차성능때엔 만족시켜야 함)
+- output layer activation function은 현재 코드로 유지, hidden layer activation function은 변경 가능 (단, 모든 hidden layer 동일한 activation function 사용)
 
 ### 2차성능 구글시트 제출 (11/5 (화) 23:59)
 - 제시된 모델 구조에 따른 최적의 하이퍼파라미터 도출
