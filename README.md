@@ -82,7 +82,7 @@
 - [예시2pdf](https://drive.google.com/file/d/1fpKmHZdtPpHIQL_kYANuYtTGVgQLsQRW/view?usp=sharing)
 - [예시3pdf](https://drive.google.com/file/d/1hXxi-sG-P6Tqq7jBf0SZ5bhqoB1GSIr8/view?usp=sharing)
 
-### 프로젝트 최종발표 (11/25 (월) 19:00 장소 추후 공지)
+### 프로젝트 최종발표 (11/25 (월) 19:00 벤처관 309호 대형강의실)
 - 팀당 6분 발표, 최대 3분 질의응답
 - 9분 x 20팀 = 180분
 - 장소의 경우 18시부터 대여함 -> 19시 이전에 교수석에 발표자료 넣어놓고 잘 작동하는지까지 확인할 것 (수업있는 학생은 다른 친구한테 부탁할 것 - 예외처리 없음)
