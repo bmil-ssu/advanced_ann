@@ -21,8 +21,8 @@
 |      일정       | 기한                    |
 |:-------------:|:----------------------|
 |    팀 빌딩 (3~4인)  | ~10월 22일 (수) 23:59 |
-|    1차성능 구글시트 제출    | 11월 1일 (토) 23:59 |
-|    2차성능 구글시트 제출     | 11월 15일 (토) 23:59 |
+|    1차성능 제출    | 11월 1일 (토) 23:59 |
+|    2차성능 제출     | 11월 15일 (토) 23:59 |
 |     중간 보고서 제출     | 11월 17일 (일) 23:59  |
 |   최종 결과물 제출   | 12/11 (목) 23:59 (최종 발표 하루 전) |
 |     최종 발표     | 장소 및 시간 미정  추후 공지 |
@@ -61,7 +61,7 @@
 ### 1차성능 구글시트 제출 (11/1 (토) 23:59) -> 어느 팀의 성능 가장 좋은지 competition!!!
 - 최적의 하이퍼파라미터 도출
 - validate dataset을 사용한 성능 평가
-- 구글 시트에 성능 입력(이상탐지 성능, loss 값)[sheet](https://docs.google.com/spreadsheets/d/1s1Ylj7ZBZPjnHhEU7gBR7HI9Xdqe584pd9LaUTmBwHc/edit?usp=sharing)
+- 구글 시트에 성능 입력(이상탐지 성능, loss 값)
 - 11/3 (월) 수업시간에 성능 종합 평가(점수 반영)
 - 1차성능 확인 후 제약조건을 줄 예정 (해당 제약조건은 2차성능때엔 만족시켜야 함)
 - output layer activation function은 현재 코드로 유지, hidden layer activation function은 변경 가능 (단, 모든 hidden layer 동일한 activation function 사용)
@@ -72,7 +72,7 @@
 - 제약조건하에 하이퍼파리미터 튜닝 수행
 - 구글 시트에 성능 입력(이상탐지 성능, loss 값)
 
-### 프로젝트 중간점검 보고서 제출 (11/17 (일) 23:59)
+### 프로젝트 중간점검 보고서 제출 (11/16 (일) 23:59)
 - 보고서 양식[docx](https://docs.google.com/document/d/1sC790ydDjOc1SSC0iIX1TJ7t02GId3QY/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
 포함할 사항
 - 사용 하이퍼파라미터 분석 내용
@@ -84,7 +84,9 @@
 - [예시3pdf](https://drive.google.com/file/d/1hXxi-sG-P6Tqq7jBf0SZ5bhqoB1GSIr8/view?usp=sharing)
 
 ### 프로젝트 최종발표 (일시, 장소 미정)
-- 추후 공지
+- 6분 발표, 3분 질의 응답
+- 팀별 1인 발표 or 나누어 발표 자유
+- 시간 및 장소 추후 공지
   
 ### 프로젝트 최종 제출 자료 (11/24 (일) 23:59)
 1) 발표자료 (최종 발표자료 pdf)
