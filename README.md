@@ -47,7 +47,7 @@
    - 이상탐지 성능 지표 수식 및 결과 포함(Accuracy, Recall, Precision, F1-score) -> EMNIST dataset에 포함된 test dataset을 기반으로 한 성능 평가
 
 ### 요구 조건
-1. 4~5인이 한 팀을 이루어 프로젝트 진행 (8주차 프로젝트 팀 구성 조사 게시글에 댓글 남기기 ~10/22)
+1. 4~5인이 한 팀을 이루어 프로젝트 진행 (8주차 프로젝트 팀 구성 조사 게시글에 댓글 남기기 ~10/22) 
 2. 팀원 수에 따른 점수 차이 없음 (결과 평가시 팀원이 몇명인지 고려 안함)
 3. 제출자료: 중간보고서, 최종발표자료, 실행결과 포함한 노트북 파일. 모든 파일은 pdf와 ipynb로 제출. (최종 보고서는 없음- 발표자료로 대체)
 4. 보고서 및 최종발표자료 포함사항
@@ -79,10 +79,11 @@
 - 사용 하이퍼파라미터 분석 내용
 - 이상탐지 성능 지표 설명 및 분석 내용
 - Jupyter notebook 코랩 링크
-- 2023년 우수 보고서 예시 (큰 구성만 참고 - 올해와 프로젝트가 다름)
-- [예시1pdf](https://drive.google.com/file/d/1UO7IuZuZ7qeiUjkokdktSpolyNymDMp3/view?usp=sharing)
-- [예시2pdf](https://drive.google.com/file/d/1fpKmHZdtPpHIQL_kYANuYtTGVgQLsQRW/view?usp=sharing)
-- [예시3pdf](https://drive.google.com/file/d/1hXxi-sG-P6Tqq7jBf0SZ5bhqoB1GSIr8/view?usp=sharing)
+- 2024년 우수 보고서 예시
+- [예시1pdf](https://drive.google.com/file/d/1LkUXHj3FYNyKy3jL8516OAm-nX6fB0B2/view?usp=sharing)
+- [예시2pdf](https://drive.google.com/file/d/1NelIp0Oba2Q0wxDQT9Z88i-UTM_-x74e/view?usp=sharing)
+- [예시3pdf](https://drive.google.com/file/d/1o01QoZyTOMHjmxJT80-MRCGUYPHKScjd/view?usp=sharing)
+- [예시4pdf](https://drive.google.com/file/d/1zS6WSQhIk6XPNEwh9rNeaGc2hLW2xiJW/view?usp=sharing)
 
 ### 프로젝트 최종발표 (일시, 장소 미정)
 - 6분 발표, 3분 질의 응답
