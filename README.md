@@ -77,7 +77,7 @@
 - 11/17 (월) 수업시간에 성능 종합 평가 수업 진행
 
 ### 프로젝트 중간점검 보고서 제출 (11/18 (화) 23:59)
-- 보고서 양식[docx](https://docs.google.com/document/d/1sC790ydDjOc1SSC0iIX1TJ7t02GId3QY/edit?usp=sharing&ouid=115661534345468656315&rtpof=true&sd=true)
+- 보고서 양식[docx](https://docs.google.com/document/d/1TChDIcNmhQ5eWJ694hilkdD3cZ6opYsg/edit?usp=sharing&ouid=115503760206568696644&rtpof=true&sd=true)
 포함할 사항
 - 사용 하이퍼파라미터 분석 내용
 - 이상탐지 성능 지표 설명 및 분석 내용
